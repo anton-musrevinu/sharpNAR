@@ -1,0 +1,27 @@
+#Input for benchmark:
+#File name, #Vars, #Clauses, #Sat
+APPROXWMI/1023_data, 14, 5, 1023,1
+APPROXWMI/32768_data,23, 9, 32768,1
+APPROXWMI/3_data,6, 5, 3,1
+APPROXWMI/65536_data,26, 11, 65536,1
+APPROXWMI/7_data,7, 5, 7,1
+Plan_Recognition/4step
+Plan_Recognition/5step
+Plan_Recognition/log-1
+Plan_Recognition/tire-1
+Plan_Recognition/tire-2
+Bejing/3blocks
+blocksworld/anomaly
+jnh/jnh10
+jnh/jnh205
+jnh/jnh20
+jnh/jnh216
+jnh/jnh2
+jnh/jnh302
+jnh/jnh305
+jnh/jnh307
+jnh/jnh309
+sddUCLA/c8
+sddUCLA/c432.isc
+sddUCLA/count
+sddUCLA/s208.1.scan

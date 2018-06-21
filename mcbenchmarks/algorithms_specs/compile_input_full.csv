@@ -1,0 +1,51 @@
+#Input for benchmark:
+#File name, #Vars, #Clauses, #Sat
+APPROXWMI/1023_data, 14, 5, 1023,1
+APPROXWMI/32768_data,23, 9, 32768,1
+APPROXWMI/3_data,6, 5, 3,1
+APPROXWMI/65536_data,26, 11, 65536,1
+APPROXWMI/7_data,7, 5, 7,1
+Plan_Recognition/log-2
+Plan_Recognition/log-3, 1413, 29487, 279857462060,1
+Plan_Recognition/log-4, 2303, 20963, 23421510324076617565622131248,1
+Plan_Recognition/log-5, 2701, 29534, 724152621485436659540387630662916505600,1
+Plan_Recognition/tire-3, 577,	2004, 222560409176,1
+Plan_Recognition/tire-4, 812,	3222, 103191650628000,1
+Bejing/2bitadd_10
+Bejing/3blocks
+Bejing/4blocks
+Bejing/4blocksb
+blocksworld/anomaly
+blocksworld/bw_large.a
+blocksworld/bw_large.b
+blocksworld/bw_large.c
+blocksworld/medium
+ais/ais6
+ais/ais8
+ais/ais10
+ais/ais12
+QG/qg1-07
+QG/qg1-08
+QG/qg2-07
+QG/qg2-08
+QG/qg3-08
+QG/qg4-09
+QG/qg5-11
+QG/qg6-09
+QG/qg7-09
+QG/qg7-13
+jnh/jnh1
+jnh/jnh12
+jnh/jnh17
+jnh/jnh201
+jnh/jnh204
+jnh/jnh207
+jnh/jnh209
+jnh/jnh210
+jnh/jnh212
+jnh/jnh213
+jnh/jnh217
+jnh/jnh218
+jnh/jnh220
+jnh/jnh301
+jnh/jnh7
