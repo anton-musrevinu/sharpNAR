@@ -1,7 +1,9 @@
-This the is the project directory of my (Anton Fuxjaegers, s1455952) 4th year Hons Project.  
+The sharpNRA python library
 ======
+This the is the project directory of the sharpNRA Python library for querying NAR fromulas (MC/WMC/MI/WMI) by using SDD as the underlying querying language. The project was created as part of my BSc Hons. Project at the University of Edinburgh.
 
-Dependencies for using the python library sharpSMT:  
+
+Dependencies for using the python library sharpNAR:  
 -------
 	- Z3(python)		(https://github.com/Z3Prover/z3/wiki)  
 	- Python >= 3.5  
